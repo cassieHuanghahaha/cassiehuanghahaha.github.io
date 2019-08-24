@@ -50,6 +50,7 @@ hr.star-light {
 hr.star-light:after {
   color: #fff;
   background-color: #18bc9c;
+  /* background: linear-gradient(89deg, #ff5edf 0%, #00bfff 100%); */
 }
 
 hr.star-dark {
